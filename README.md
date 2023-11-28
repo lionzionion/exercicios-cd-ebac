@@ -16,7 +16,7 @@ README.md: Instruções, explicações e informações adicionais sobre o projet
 
 ## Como Utilizar:
 
-Clone o repositório: git clone https://github.com/seu-usuario/exercicios-ebac-cd.git
+Clone o repositório: git clone (https://github.com/lionzionion/exercicios-cd-ebac.git)
 Abra o arquivo exercicios.ipynb no Jupyter Notebook.
 Siga as instruções do curso, complete os exercícios e explore as explicações fornecidas.
 
