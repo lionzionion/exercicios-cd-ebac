@@ -11,14 +11,16 @@ Exercícios de Ciência de Dados EBAC
 ## Conteúdo:
 
 exercicios.ipynb: Jupyter Notebook com exercícios práticos.
+
 imagens: Pasta contendo imagens usadas no Notebook (se aplicável).
+
 README.md: Instruções, explicações e informações adicionais sobre o projeto.
 
 ## Como Utilizar:
 
 Clone o repositório: git clone (https://github.com/lionzionion/exercicios-cd-ebac.git)
 Abra o arquivo exercicios.ipynb no Jupyter Notebook.
-Siga as instruções do curso, complete os exercícios e explore as explicações fornecidas.
+Siga as instruções do notebook, complete os exercícios e explore as explicações fornecidas.
 
 ## Contribuições:
 
